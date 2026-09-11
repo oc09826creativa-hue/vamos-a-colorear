@@ -1,0 +1,6 @@
+{
+  "name": "¡Vamos a colorear!",
+  "description": "Un libro de colorear interactivo e infantil con un algoritmo dinámico de flood-fill y hermosas plantillas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
